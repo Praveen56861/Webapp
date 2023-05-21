@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>Hello World Welcome to Devops</title>
+    <title>Hello World Welcome to Devops archi</title>
 
 
     <!-- Custom styles for this template -->
